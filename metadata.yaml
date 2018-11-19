@@ -1,0 +1,27 @@
+_repo: Tulevaisuudentoiveita_58234
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hedman, Valfrid
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '46070'
+    url: http://www.gutenberg.org/2009/agents/46070
+creator:
+  author:
+    agent_name: Poulsen, Ellen Kruuse
+    gutenberg_agent_id: '49844'
+    url: http://www.gutenberg.org/2009/agents/49844
+description: ''
+gutenberg_issued: '2018-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58234'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tulevaisuudentoiveita
+url: http://www.gutenberg.org/ebooks/58234
